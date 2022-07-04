@@ -1,0 +1,5 @@
+---
+applications:
+- name: SCM-Tanzu-Test
+  env:
+    APP_MESSAGE: World
